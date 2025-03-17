@@ -160,7 +160,9 @@ body {
         height: 50px;
         font-size: 18px;
     }
-
+.calculator{
+    border:none;
+}
     #screen {
         font-size: 20px;
     }
